@@ -1,0 +1,12 @@
+measure,count
+reviewed,68
+left_out_changed_or_unconfirmed,10
+classified,58
+meets_agent_test,31
+assistive,14
+not_agent_product_or_mainly_human_service,13
+did_not_meet_test,27
+own_site_calls_product_ai_agent,29
+own_site_calls_product_ai_agent_and_meets_test,23
+own_site_calls_product_ai_agent_and_does_not_meet_test,6
+meets_test_but_own_site_does_not_call_it_an_agent,8
